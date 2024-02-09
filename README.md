@@ -1,0 +1,5 @@
+- 👋 Leonardo Gabriel Rohling
+- 👀 Javascript
+- 🌱 SISTEMAS DE INFORMAÇÃO - UNIFEBE
+- 📫 @leonardo.grg
+- 🌎 BRUSQUE/SC
