@@ -25,10 +25,10 @@
 ###
 
 - 👋 Leonardo Gabriel Rohling
-- 👀 JAVASCRIPT
-- 🌱 SISTEMAS DE INFORMAÇÃO - UNIFEBE
+- 👀 Javascript, HTML, CSS
+- 🌱 Sistemas de Informação - UNIFEBE
 - 📫 @leonardo.grg
-- 🌎 BRUSQUE/SC
+- 🌎 Brusque/SC
 
 ![leonardoRohling's Stats](https://github-readme-stats.vercel.app/api?username=leonardoRohling&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
